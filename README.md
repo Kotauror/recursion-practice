@@ -114,4 +114,4 @@ returns 1.
 
 0 + 1 equals 1, and this is the third (2nd index) position in the fibonacci sequence.
 
-[See example](/images/img.jpg)
+![See image](/images/img.jpg)
